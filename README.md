@@ -10,8 +10,8 @@ En esta página reuní algunos ejemplos de los conocimientos aprendidos durante 
 3. [Font Awesome](https://fontawesome.com/)
  
 ## Installation
-(nombre y nombre del portafolio del repositorio del github)
-1. `git clone https://github.com/adrianedutecno/landing.git`
+
+1. `git clone (https://github.com/Dullcifer/portafolio/tree/main)`
 
 2. Abre el `index.html`. Y listo!
 
