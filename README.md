@@ -1,10 +1,7 @@
-# Landing Page
+# Portafolio de Natalia Zumelzu para el bootcamp de Ciencia de Datos 2025
+En esta página reuní algunos ejemplos de los conocimientos aprendidos durante la ejecución del bootcamp impartido por Talento Digital, agencia estatal chilena que busca mejorar las capacidades técnicas de sus seleccionados. Dentro de las áreas mostradas en este documento se encuentran el uso de aprendizaje de máquina supervisado y no supervisado; clusterización; regresiones lineales; deep learning y uso de Spark. Todas implementadas con el lenguaje de Python. 
 
-Personal landing page template.
-
-Designed to keep simplicity in mind in both setup and UI.
-
-![Demo](https://systempeaker.com/wp-content/uploads/2021/10/windows_hello_hero_2-3173069.jpg)
+<img width="1912" height="920" alt="Demo" src="https://github.com/user-attachments/assets/4ea164d8-83e0-4110-901b-518727456c29" />
 
 ## Stack
 
@@ -13,10 +10,10 @@ Designed to keep simplicity in mind in both setup and UI.
 3. [Font Awesome](https://fontawesome.com/)
  
 ## Installation
-
+(nombre y nombre del portafolio del repositorio del github)
 1. `git clone https://github.com/adrianedutecno/landing.git`
 
-2. Open `index.html`. That's it!
+2. Abre el `index.html`. Y listo!
 
 ## License
 
