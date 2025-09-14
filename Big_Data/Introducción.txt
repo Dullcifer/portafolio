@@ -1,0 +1,11 @@
+Estudiar las tendencias de migración
+humana en el siglo XXI utilizando Big Data. Según un conjunto de datos que
+contiene información sobre migraciones entre distintos países, sus causas y el impacto
+socioeconómico en las regiones de origen y destino.
+
+
+Objetivos de la actividad
+1. Aplicar conceptos de Big Data utilizando Apache Spark y PySpark.
+2. Explorar y transformar datos con RDDs y DataFrames.
+3. Realizar consultas con Spark SQL.
+4. Implementar modelos de aprendizaje automático con MLlib.
