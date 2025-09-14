@@ -1,0 +1,29 @@
+4. Análisis de resultados y conclusiones:
+Comparación de métodos:
+• Explica las diferencias entre K-Means, clustering jerárquico y DBSCAN. ¿Cuál funcionó mejor
+en este caso y por qué?
+
+- K-Means: Luego de calcular el valor óptimo de clusters, que después fueron corroborados por el método del codo y silueta,
+ofreció un resultado más sólido para comprender el sistema de clusterización de los datos y de sus centroides.
+
+- Clustering Jerárquico: Interpretó distancias más grandes, lo que alteró los hiperparámetros de prueba de que se usaron en el DBSCAN
+
+- DBSCAN: A pesar de intentar con variaciones de los hiperparámetros, no dió mejores resultados para la clusterización de los datos.
+Su interpretación fue más compleja, a pesar de que conservara la estructura original. 
+
+
+• Compara los resultados obtenidos con PCA y t-SNE. ¿Cuál técnica permitió visualizar mejor
+la relación entre los países?
+
+- PCA: Conservó de manera casi íntegra los datos, el dataset tampoco era muy grande por lo que es difícil comprobar una alteración en la estructura. 
+
+- t-SNE:Alteró de distintas maneras la posición de los datos según los niveles de perplexity, por lo que se ve en los patrones de clusterización, 
+el último t-SNE separa de mejor forma los datos y permite entender mejor su relación. 
+
+Interpretación:
+• ¿Los clusters obtenidos reflejan similitudes culturales o geográficas en la música?
+• Relaciona los resultados con tendencias globales en consumo musical.
+
+Fuera de EEUU y México, no se ve un ordenamiento según la geografía, la cultura y la lejanía de estas parecen no alterar mayormente el tipo de gustos
+de las personas. Los géneros musicales mostrados además ya son bastante globalizados, lo que puede explicar las tendencias en preferencias. El Reggaeton
+por ejemplo, ha dejado de ser un género exclusivo de América Latina, y ahora es masificado en otras regiones.

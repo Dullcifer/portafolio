@@ -1,0 +1,11 @@
+Análisis sobre
+las preferencias musicales en distintos países. Aplicando técnicas de aprendizaje de
+máquina no supervisado para extraer patrones de escucha y agrupar países según sus similitudes
+en consumo musical.
+
+
+OBJETIVOS DE LA EVALUACIÓN
+• Aplicar clusterización para encontrar grupos de países con patrones de escucha similares.
+• Utilizar reducción de dimensionalidad para visualizar la estructura de los datos.
+• Evaluar diferentes algoritmos y justificar sus ventajas y desventajas.
+• Interpretar los resultados en un contexto cultural y social.
